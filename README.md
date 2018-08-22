@@ -9,3 +9,6 @@ python-mysqldb
 ajaxterm
 python-paramiko
 python-pexpect
+
+
+fix issue-001
