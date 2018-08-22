@@ -1,2 +1,2 @@
 this is a test 
-creating a new branch is quich and simpole
+creating a new branch is quich and simple
